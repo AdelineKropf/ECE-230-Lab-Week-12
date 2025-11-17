@@ -5,7 +5,7 @@ module modulo_divider(
     output outBit1,
     output outBit2,
     output Q
-    );
+);
         
     wire bit0;
     wire Y0;

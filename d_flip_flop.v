@@ -4,7 +4,7 @@ module d_flip_flop(
     input Reset,
     output reg Q,
     output NotQ
-    );
+);
         
     initial begin
         Q <= 0;

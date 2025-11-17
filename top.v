@@ -2,7 +2,7 @@ module top(
     input btnC,
     input btnU,
     output [6:0] led
-    );
+);
     
     ripple_counter A(
         .Clock(btnC),

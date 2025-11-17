@@ -4,7 +4,7 @@ module ripple_counter(
     output light0,
     output light1,
     output light2
-    );
+);
     
     wire output1;
     

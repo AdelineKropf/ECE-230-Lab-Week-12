@@ -5,7 +5,7 @@ module jk_flip_flop(
     input Reset,
     output Q,
     output NotQ
-    );
+);
     
     wire d_flip_flop_Q;
     wire d_flip_flop_NotQ;
